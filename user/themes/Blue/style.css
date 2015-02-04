@@ -1,0 +1,77 @@
+body {
+	background: url('bottom-left-bg.jpg') no-repeat fixed bottom right;
+	background-color: #111111;
+	color: white;
+}
+
+.header {
+	background-color: #335883;
+}
+
+h2 {
+	color: white;
+}
+
+#menu {
+	background-color: rgba(255, 255, 255, 0.1);
+	border: none;
+}
+
+#menu a {
+	color: white;
+}
+
+#menuright{
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+#menuright-header{
+	background-color: #335883 !important;
+	border-bottom: none !important;
+}
+
+div.dirname {
+	background-color: #335883;
+}
+
+#logo {
+	color: white;
+}
+
+#menu a:hover {
+	color: black;
+}
+
+li.currentSelected a {
+	color: #A1BCE0 !important;
+}
+
+span#logo {
+	background-color: #335883;
+	border-bottom: 1px solid #3B0909;
+}
+
+div.infos_img > div.infos_title {
+	background-color: #335883 !important;
+}
+
+.pure-menu li a {
+	font-size: 15px;
+}
+
+div.directory .dirname {
+	background-color: #335883;
+}
+
+span#rss {
+	background: none;
+}
+
+.pure-g {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+#files {
+	background-color: none !important;
+}
